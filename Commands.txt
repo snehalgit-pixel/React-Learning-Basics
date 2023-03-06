@@ -1,0 +1,14 @@
+Command to install http server globally: npm install http-server -g
+
+
+Kickstart the http-server running: http-server .
+<Default port: 8080>
+
+
+Command to install Create-React-App: sudo npm install -g create-react-app
+
+Set up a new React Application: npx create-react-app my-react-app
+
+Get the React Server running:
+cd <directory_name>
+npm start
